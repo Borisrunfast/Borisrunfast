@@ -1,6 +1,7 @@
 # Hi there, My name is Boris 👋
 ### Front-End Web Developer
 
+currently I am:
 - Working on Movie-finder
 - Learning Node.js and Tailwind
 
