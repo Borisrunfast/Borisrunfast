@@ -1,5 +1,5 @@
-### Hi there, My name is Boris 👋
-# Front-End Web Developer
+# Hi there, My name is Boris 👋
+### Front-End Web Developer
 
 - Working on Movie-finder
 - Learning Node.js and Tailwind
