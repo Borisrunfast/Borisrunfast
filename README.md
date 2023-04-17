@@ -3,7 +3,7 @@
 
 currently I am:
 - Working on Movie-finder
-- Learning Node.js and Tailwind
+- Learning CS50
 
 
 <!--
