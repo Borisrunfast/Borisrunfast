@@ -2,7 +2,7 @@
 ### Front-End Web Developer
 
 currently I am:
-- Working on Movie-finder
+- Project Chess
 - Learning node.js
 
 
