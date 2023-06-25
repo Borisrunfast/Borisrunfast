@@ -3,7 +3,7 @@
 
 I am exploring the world of programming, 
 finding more profound and significant ways to solve problems, 
-ignoring the fear of complexity, and trying to find simplicity in things.
+ignoring the fear of complexity, and trying to find simplicity.
 
 Goal - Full-stack developer
 Dream - Unexplainable
