@@ -2,8 +2,8 @@
 ### Front-End Web Developer
 
 I am exploring the world of programming, 
-finding more profound and significant ways to solve problems, 
-ignoring the fear of complexity, and trying to find simplicity.
+finding more creative and interesting ways to solve problems, 
+diving into complexity and finding simplicity.
 
 <!--
 **Borisrunfast/Borisrunfast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
